@@ -3,10 +3,9 @@
 title: Eleni Speal
 locale: en_US
 description: 
-logo: 10736014_973265809357471_1993712096_n.jpg 
-search: true
-#url: http://localhost:4000
-url: http://espeal.github.io
+logo: Logo1.png
+url: http://localhost:4000
+#url: http://espeal.github.io
 #url: http://www.eleni.speal.ca
 
 
@@ -34,16 +33,16 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 
 # Site owner
 owner:
-  name: Your Name
-  avatar: bio-photo.jpg
-  email: you@email.com
+  name: Eleni Speal
+  avatar: Bio Pic.png
+  email: elenispeal94@gmail.com
   disqus-shortname:
-  twitter: #username
-  facebook: #username
-  github: #username
+  twitter: espealz
+  facebook: eleni.speal
+  github: espeal
   stackexchange: #http://stackoverflow.com/users/123456/username
   linkedin: #username
-  instagram: #username
+  instagram: espealz
   flickr: #username
   tumblr: #username
   google:
