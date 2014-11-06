@@ -1,28 +1,28 @@
 ---
 layout: page
-title: temporary page
+title: Contact Me
+
 excerpt: "So Simple is a responsive Jekyll theme for your words and images."
 modified: 2014-08-08T19:44:38.564948-04:00
 image:
-  feature: so-simple-sample-image-4.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+  feature: Contact page header.jpg
+  credit: 
+  creditlink: 
 ---
+   **Email**: elenispeal94@gmail.com  
+   **Telephone**: (514) 944-9710  
 
-Thois is a temp page
+   *3660 Lorne Crescent, Apt. 25*  
+   *Montreal, QC*  
+   *H2X 2B3*  
+   *Canada*  
+
+   *322 W 57th Street, Apt. 57-Z*  
+   *New York, NY*  
+   *10019*  
+   *USA*  
 
 
 
-## So Simple Theme is all about:
-
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 9+ and all modern browsers.
-* Minimal embellishments and subtle animations.
-* Optional large feature images for posts and pages.
-* [Custom 404 page]({{ site.url }}/404.html) to get you started.
-* [Simple site search](https://github.com/christian-fei/Simple-Jekyll-Search)
-* Support for Disqus Comments
-
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install So Simple Theme</a>
 
 [^1]: Example: *domain.com/category-name/post-title*
