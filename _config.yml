@@ -5,8 +5,8 @@ locale: en_US
 description: 
 logo: Logo1.png
 #url: http://localhost:4000
-url: http://espeal.github.io
-#url: http://www.eleni.speal.ca
+#url: http://espeal.github.io
+url: http://eleni.speal.ca
 
 
 # Jekyll configuration
