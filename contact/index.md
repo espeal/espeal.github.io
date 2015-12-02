@@ -9,7 +9,7 @@ image:
   credit: 
   creditlink: 
 ---
-   **Email**: eleni.speal@mail.mcgill.ca  
+   **Email**: elenispeal94@gmail.com 
    **Telephone**: (514) 944-9710  
 
    *3660 Lorne Crescent, Apt. 25*  
