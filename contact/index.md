@@ -9,7 +9,8 @@ image:
   credit: 
   creditlink: 
 ---
-   **Email**: elenispeal94@gmail.com 
+   **Email**: elenispeal94@gmail.com   
+
    **Telephone**: (514) 944-9710  
 
    *3660 Lorne Crescent, Apt. 25*  
