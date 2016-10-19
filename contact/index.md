@@ -11,11 +11,11 @@ image:
   credit: 
   creditlink: 
 
-  ## Montreal | New York 
-  ###**Email**: elenispeal94@gmail.com
-  ###**Telephone**: (514) 944-9710
+  
 ---
-   
+  <h2> Montreal | New York </h2>
+  **Email**: elenispeal94@gmail.com
+  **Telephone**: (514) 944-9710 
   
 
      
