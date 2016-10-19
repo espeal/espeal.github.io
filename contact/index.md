@@ -11,12 +11,14 @@ image:
   credit: 
   creditlink: 
 
-  center: Montreal | New York
+  feature: Montreal | New York 
+  **Email**: elenispeal94@gmail.com
+  **Telephone**: (514) 944-9710 
 ---
 
-   **Email**: elenispeal94@gmail.com   
+  
 
-   **Telephone**: (514) 944-9710  
+     
 
    
    
