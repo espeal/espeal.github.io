@@ -13,11 +13,11 @@ image:
 
   
 ---
-  <center> <h4><i>Montreal | New York </i></h3></center>
+  <center> <h4><i>Montreal | New York </i></h4></center>
   <center><strong>Email:</strong> elenispeal94@gmail.com</center>
   <center><strong>Telephone:</strong> (514) 944-9710 </center>
   
-
+---
      
 
    
