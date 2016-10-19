@@ -13,12 +13,10 @@ image:
 
   
 ---
-  <center> <h4><i>Montreal | New York </i></h4>
-
-    If you have any questions, or you would like a copy of my CV please email me
-    
-  <img> <a href="mailto:elenispeal94@gmail.com">envelope-closed-b-w-7054.jpg </img></a>
-  </center>
+  <center> <h4><i>Montreal | New York </i></h4></center>
+  <center><strong>Email:</strong> elenispeal94@gmail.com</center>
+  <center><strong>Telephone:</strong> (514) 944-9710 </center>
+  
 ---
      
 
