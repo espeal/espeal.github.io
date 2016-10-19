@@ -16,7 +16,8 @@ image:
   <center> <h4><i>Montreal | New York </i></h4>
 
     If you have any questions, or you would like a copy of my CV please email me
-  <a href="mailto:elenispeal94@gmail.com"><img> envelope-closed-b-w-7054.jpg </img></a>
+    
+  <img> <a href="mailto:elenispeal94@gmail.com">envelope-closed-b-w-7054.jpg </img></a>
   </center>
 ---
      
