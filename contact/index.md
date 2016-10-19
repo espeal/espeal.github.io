@@ -9,19 +9,13 @@ image:
   credit: 
   creditlink: 
 ---
+  # Montreal | New York #
    **Email**: elenispeal94@gmail.com   
 
    **Telephone**: (514) 944-9710  
 
-   *3660 Lorne Crescent, Apt. 25*  
-   *Montreal, QC*  
-   *H2X 2B3*  
-   *Canada*  
-
-   *322 W 57th Street, Apt. 57-Z*  
-   *New York, NY*  
-   *10019*  
-   *USA*  
+   
+   
 
 
 
