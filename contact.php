@@ -2,7 +2,7 @@
 
 //Retrieve form data. 
 //GET - user submitted data using AJAX
-//POST - in case user does not support javascript, we'll use POST instead
+//POST - in case user does not support javascript, it uses POST instead
 $name = ($_GET['name']) ? $_GET['name'] : $_POST['name'];
 $email = ($_GET['email']) ?$_GET['email'] : $_POST['email'];
 $comment = ($_GET['comment']) ?$_GET['comment'] : $_POST['comment'];
@@ -22,10 +22,10 @@ if (!$errors) {
 	//recipient - replace your email here
 	$to = 'elenispeal94@gmail.com';	
 	//sender - from the form
-	$from = $name . ' <' . $email . '>';
+	$from =  $email;
 	
 	//subject and the html message
-	$subject = 'Message via Aries from ' . $name;	
+	$subject = 'Message via Website from ' . $name;	
 	$message = 'Name: ' . $name . '<br/><br/>
 		       Email: ' . $email . '<br/><br/>		
 		       Message: ' . nl2br($comment) . '<br/>';
